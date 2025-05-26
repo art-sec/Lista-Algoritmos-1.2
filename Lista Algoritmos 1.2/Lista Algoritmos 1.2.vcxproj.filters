@@ -34,6 +34,9 @@
     <Filter Include="Arquivos de Origem\Q7">
       <UniqueIdentifier>{cc323e4f-4d2c-473b-8b5c-5a9799591dc0}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Arquivos de Origem\Q8">
+      <UniqueIdentifier>{0930c914-025b-481a-b415-13f3154e822e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Q1.c">
@@ -55,7 +58,10 @@
       <Filter>Arquivos de Origem\Q6</Filter>
     </ClCompile>
     <ClCompile Include="Q7.c">
-      <Filter>Arquivos de Origem</Filter>
+      <Filter>Arquivos de Origem\Q7</Filter>
+    </ClCompile>
+    <ClCompile Include="Q8.c">
+      <Filter>Arquivos de Origem\Q8</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

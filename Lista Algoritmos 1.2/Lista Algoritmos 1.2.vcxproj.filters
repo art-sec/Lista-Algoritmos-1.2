@@ -13,13 +13,19 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="Arquivos de Recurso\Q1">
+    <Filter Include="Arquivos de Origem\Q2">
+      <UniqueIdentifier>{d991d7ce-fe89-4612-b0f0-dfea83abfab2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Arquivos de Origem\Q1">
       <UniqueIdentifier>{c1eea30b-dd49-4db1-8d5a-0aac005d5bf4}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Q1.c">
-      <Filter>Arquivos de Recurso\Q1</Filter>
+      <Filter>Arquivos de Origem\Q1</Filter>
+    </ClCompile>
+    <ClCompile Include="Q2.c">
+      <Filter>Arquivos de Origem\Q2</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
